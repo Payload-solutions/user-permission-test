@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ViamaticaTest;
+CREATE DATABASE ViamaticaTest;

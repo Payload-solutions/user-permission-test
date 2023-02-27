@@ -1,8 +1,8 @@
 import express, {Application} from 'express';
 import morgan from 'morgan';
-import dotenv from 'dotenv';
+
 import userRouter from './routes/user.routes';
-dotenv.config();
+
 
 class App {
     public app: Application;
